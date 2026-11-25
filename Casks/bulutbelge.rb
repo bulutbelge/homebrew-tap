@@ -1,6 +1,6 @@
 cask "bulutbelge" do
-  version "0.1.1"
-  sha256 "c3597af7eb127fc7ade33da5ac08f1799d55effc1966fa6992a8b04a279534f8"
+  version "0.1.2"
+  sha256 "fe9f5bac3d103f89ab8ea8866dab931720fe35cbd81e69b1bfe050b0e03cc9e4"
 
   url "https://github.com/bulutbelge/bulutbelge/releases/download/v#{version}/BulutBelge_#{version}_aarch64.dmg",
       verified: "github.com/bulutbelge/bulutbelge/"
