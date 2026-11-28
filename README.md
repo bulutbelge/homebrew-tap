@@ -10,7 +10,7 @@ brew install --cask bulutbelge/tap/bulutbelge
 
 Homebrew 7 ve sonrası, dışarıdan eklenen depoları kullanmadan önce `brew trust` ile açık onay ister.
 
-macOS, Apple Silicon. Uygulama Apple Developer ID ile imzalı ve notarize. Kurulum `bulutbelge` komutunu da PATH'e ekler; yapay zekâ ajanları için yerel MCP sunucusu:
+macOS, Apple Silicon ve Intel (Intel: macOS 13 ve sonrası). Uygulama Apple Developer ID ile imzalı ve notarize. Kurulum `bulutbelge` komutunu da PATH'e ekler; yapay zekâ ajanları için yerel MCP sunucusu:
 
 ```bash
 claude mcp add bulutbelge -- bulutbelge mcp
